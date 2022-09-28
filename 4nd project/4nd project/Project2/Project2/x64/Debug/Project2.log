@@ -1,0 +1,4 @@
+﻿  4nd pp151 .cpp
+C:\Users\User\Documents\GitHub\leejeongouk\4nd project\4nd project\Project2\Project2\4nd pp151 .cpp(12,15): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\User\Documents\GitHub\leejeongouk\4nd project\4nd project\Project2\Project2\4nd pp151 .cpp(27,15): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  Project2.vcxproj -> C:\Users\User\Documents\GitHub\leejeongouk\4nd project\4nd project\Project2\x64\Debug\Project2.exe
